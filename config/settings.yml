@@ -23,11 +23,11 @@ defaults: &defaults
   product_image_path: "my-product-image.png"
 
   # The message on the preorder page, Lockitron's is ""
-  value_proposition: "Roll your own crowdfunding"
+  value_proposition: "Get your fully fedged ticket for the whole weekend!"
 
   # YouTube or Vimeo Video URL (The embed URL, without the query string options)
   # Replace /embed/ in your video url path with /v/ for video playback to work.
-  video_embed_url: "https://www.youtube.com/v/D1L3o88GKew"
+  video_embed_url: "https://www.youtube.com/v/FBPQb4tt8TI"
 
   # If set to true, then the image at "/assets/video_placeholder.png" will be shown in place of the youtube
   # video.  When the user clicks it, the vid will replace the image and start playing.
@@ -75,15 +75,15 @@ defaults: &defaults
   # Call to action section
 
   # On Lockitron, it's "First Batch Ships in March 2013"
-  ships: "Ships...sometime"
+  ships: "2020. 06. 05. - 07."
 
   # On Lockitron, it's "Reserve Now"
   call_to_action: "Reserve Now"
   # On Lockitron, this is "Only $149 for a limited time"
-  price_human: "It costs money!"
+  price_human: "Accomodation, food, drinks and program"
 
   # The paragraph below the price. You'd probably say something about how you're not going to charge them before it ships (so it's less risky).
-  dont_give_them_a_reason_to_say_no: "You'll get this exact site. All you'll need to get started is a great product."
+  dont_give_them_a_reason_to_say_no: "Every detail depending on how many we'll be. But 2 days drinking and eating together for sure."
 
   # Social Stuff
   facebook_app_id: "1234567890"
